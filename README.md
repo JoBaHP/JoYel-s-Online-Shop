@@ -1,2 +1,4 @@
 # JoYel-s-Online-Shop
-https://www.joyel-shop.com/
+
+### WordPress online store
+[Live Site] (https://www.joyel-shop.com)
